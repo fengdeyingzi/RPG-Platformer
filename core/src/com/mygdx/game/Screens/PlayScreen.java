@@ -26,7 +26,7 @@ import com.mygdx.game.Tools.B2dWorldCreator;
 import com.mygdx.game.Tools.BulletPool;
 import com.mygdx.game.Tools.WorldContactListener;
 
-import sun.rmi.runtime.Log;
+
 
 /**
  * Created by scott_000 on 6/2/2016.
